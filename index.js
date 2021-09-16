@@ -1,5 +1,5 @@
 function renderResult(result) {
-  document.querySelector("#result-container").textContent = result;
+  document.querySelector("#result").textContent = result;
 }
 
 function calculate(buttonName) {
